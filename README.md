@@ -1,10 +1,14 @@
-# Hi there, I'm John Pierre 👋
+# [![Typing SVG](https://readme-typing-svg.demolab.com?weight=600&size=24&pause=1000&color=59A6FF&multiline=true&width=435&height=50&lines=Hi+there+%2C+I'm+John!+)](https://git.io/typing-svg)
 
 I'm a developer with a passion for building interesting projects. Welcome to my GitHub profile!
 
 - 🌎 Houston, TX
 - 🎓 Houston City College
 - 💻 Hacking since 2019
+
+## Stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jpierre-7&theme=github_dark&show_icons=true&show=prs_merged)](https://github.com/jpierre-7)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpierre-7&layout=donut&theme=github_dark)](https://github.com/jpierre-7)
 
 ## 🚀 My Projects
 
