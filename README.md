@@ -6,9 +6,11 @@ I'm a developer with a passion for building interesting projects. Welcome to my 
 - 🎓 Houston City College
 - 💻 Hacking since 2019
 
+<!--
 ## Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jpierre-7&theme=github_dark&show_icons=true&show=prs_merged)](https://github.com/jpierre-7)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpierre-7&layout=donut&theme=github_dark)](https://github.com/jpierre-7)
+-->
 
 ## 🚀 My Projects
 
