@@ -25,6 +25,6 @@ Here are some of the public projects I've been working on:
 
 ## 🛠️ Tech & Interests
 
-- **Languages**: Python, HTML, CSS, Typescript, R
+- **Languages**: Python, Typescript, SQL, HTML, CSS, R
 - **Focus**: Data Science, AI, Software Development
 - **Interests**: AI, Coding, Homelabbing, Rock Climbing, Hiking, Reading & Studying
