@@ -16,6 +16,7 @@ I'm a developer with a passion for building interesting projects. Welcome to my 
 
 Here are some of the public projects I've been working on:
 
+- **[Clarity (CodeRED Astra '25)](https://github.com/jpierre-7/CodeRED2025-404NotFound)**: An AI tool for Educators and Students to bridge the communication gap in classrooms.
 - **[matrix-stats-calculator](https://github.com/jpierre-7/matrix-stats-calculator)**: A Python tool for calculating matrix statistics.
 - **[myWebsite](https://github.com/jpierre-7/myWebsite)**: My personal website built with HTML and CSS.
 - **[demographic-data-analyzer](https://github.com/jpierre-7/demographic-data-analyzer)**: A data analysis project using Python Pandas.
