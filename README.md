@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?weight=600&size=24&pause=1000&color=59A6FF&multiline=true&width=435&height=50&lines=Hi+there+%2C+I'm+John!+)](https://git.io/typing-svg)
 
-I'm a developer with a passion for building interesting projects. Welcome to my GitHub profile!
+I'm a developer with a passion for Data Science and building interesting projects encompassing a broad range of the tech field. Welcome to my GitHub profile!
 
 - 🌎 Houston, TX
 - 🎓 Houston City College
@@ -25,6 +25,6 @@ Here are some of the public projects I've been working on:
 
 ## 🛠️ Tech & Interests
 
-- **Languages**: Python, Typescript, SQL, HTML, CSS, R
-- **Focus**: Data Science, AI, Software Development
-- **Interests**: AI, Coding, Homelabbing, Rock Climbing, Hiking, Reading & Studying
+- **Languages**: Python, Typescript, SQL, HTML, CSS, R, React, Rust
+- **Focus**: Data Science, Data Analysis, Software Development
+- **Interests**: Coding, Homelabbing, AI, Cybersecurity, Rock Climbing, Hiking, Reading & Studying
