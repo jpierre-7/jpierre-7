@@ -19,7 +19,7 @@ Here are some of the public projects I've been working on:
 - **[us-county-health-analysis](https://github.com/jpierre-7/us-county-health-analysis)**: A full-stack data analytics project analyzing county-level public health trends across the United States.
 - **[all-in](https://github.com/jpierre-7/all-in)**: A card-combat roguelike game set in a casino.
 - **[Clarity (CodeRED Astra '25)](https://github.com/jpierre-7/CodeRED2025-404NotFound)**: An AI tool for Educators and Students to bridge the communication gap in classrooms.
-- **[matrix-stats-calculator](https://github.com/jpierre-7/matrix-stats-calculator)**: A Python tool for calculating matrix statistics.
+- **[eagle-ring](https://github.com/jpierre-7/eagle-ring)**: A webring for Houston City College CS students and alumni.
 - **[jp-website](https://github.com/jpierre-7/jp-website)**: My personal website built with Astro.
 - **[demographic-data-analyzer](https://github.com/jpierre-7/demographic-data-analyzer)**: A data analysis project using Python Pandas.
 - **[page-view-time-series-visualizer](https://github.com/jpierre-7/page-view-time-series-visualizer)**: A time series visualization of page views.
